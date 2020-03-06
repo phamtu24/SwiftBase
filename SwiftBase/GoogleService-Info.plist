@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>347455646913-bc57qf9lrmm2l8bemlg1g9t4vcsavvur.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.347455646913-bc57qf9lrmm2l8bemlg1g9t4vcsavvur</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1pPSznY9gwnX6kBqzw-IEjl7KxOrlQ-M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>347455646913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tupham.DemoMVVM</string>
+	<key>PROJECT_ID</key>
+	<string>swiftbase-1583311119352</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftbase-1583311119352.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:347455646913:ios:77b221e6eebafffca4b840</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftbase-1583311119352.firebaseio.com</string>
+</dict>
+</plist>
